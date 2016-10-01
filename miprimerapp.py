@@ -10,7 +10,7 @@ while 1:
 
 
 for i in range(len(array)):
-	print 'tiene un alumno llamado ' +array[i]
+
 
 
 
